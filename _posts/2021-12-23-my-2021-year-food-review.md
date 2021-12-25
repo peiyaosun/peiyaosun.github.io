@@ -86,7 +86,7 @@ Address: La Rambla, 111, 08002 Barcelona
 
 ![Patates Braves](/assets/images/IMG_2485.jpg#center)
 
-下面这个Tapas是某一种鱼肉制成泥铺在上面，这个tapas是惊喜，特别好吃，口感很丰富！！！
+下面这个Tapas不记得名字了，材料是crema de bacalhao铺在polenta上面，外面条状的可能是烤大葱切丝。总之这个tapas是惊喜，特别好吃，口感很丰富！！！
 
 ![Crema Catalana](/assets/images/IMG_2487.jpg#center)
 
