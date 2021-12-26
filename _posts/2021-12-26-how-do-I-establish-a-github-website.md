@@ -18,46 +18,17 @@ https://sinantang.github.io/ -《用 Jekyll 在 GitHub 上搭建你的个人网�
 
 https://jekyllcn.com/docs/posts/ -jekyll官方网站
 
-​    之所以把reference放到这么前面，是因为我觉得sinan写得很好，我几乎是按照她的方式走下来的。
+<br />
+
+<br />
+
+之所以把reference放到这么前面，是因为我觉得sinan写得很好，我几乎是按照她的方式走下来的。
 
 在sinan的基础上，我写这篇博客的原因，是想加几个步骤以免自己忘记。
 
+<br />
 
-
-
-
-后续更改：
-
-1. 写完博文，保存markdown文件。在本地jekyll local site观察更新：
-
-```
-cd ~/Public
-ls
-cd USER-NAME.github.io
-bundle exec jekyll serve  #1
-```
-
-以上几步都完成后，点击 `⌘T` 开一个新 Terminal tab，输入：
-
-```
-open http://localhost:4000  #2
-```
-
-或者也可以直接打开浏览器，输入 `localhost:4000`
-
-
-
-2. 正式上传github更新：
-
-```
-git add .
-git commit -m "initial commit"
-git push origin HEAD:master
-```
-
-
-
-
+<br />
 
 **我在建立网站的过程中遇到的问题：**
 
@@ -77,24 +48,55 @@ git push origin HEAD:master
 
    值得注意的是，如果仅仅在本地修改图片的大小写，再次上传到github时，git会显示没有可更新的。我的解决方法是粗暴地删除文件，上传，再加入文件，上传。最后work out！
 
-   
+   后续更改：
 
-   
+   1. 写完博文，保存markdown文件。在本地jekyll local site观察更新：
 
+   ```
+   cd ~/Public
+   ls
+   cd USER-NAME.github.io
+   bundle exec jekyll serve  #1
+   ```
    
-
+   以上几步都完成后，点击 `⌘T` 开一个新 Terminal tab，输入：
+   
+   ```
+   open http://localhost:4000  #2
+   ```
+   
+   或者也可以直接打开浏览器，输入 `localhost:4000`
+   
+   <br />
+   
+   2. 正式上传github更新：
+   
+   ```
+   git add .
+   git commit -m "initial commit"
+   git push origin HEAD:master
+   ```
+   
+   <br />
+   
+   <br />
+   
+   <br />
+   
+   
+   
    从最初知道sinan的博文，试图建立网站到最终今天成功发出第一篇博文，一年已经过去。希望大家都能如愿建立自己的个人网站！
-
    
-
    
-
    
-
    
-
    
-
+   
+   
+   
+   
+   
+   
    
    
    
