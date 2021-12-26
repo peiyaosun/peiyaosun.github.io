@@ -181,15 +181,15 @@ Address: Carrer de Sant Pere Més Alt, 49, 08003 Barcelona
 
 **Jamon Iberico De Bellota** 橡果喂养-伊比利亚火腿
 
-![Jamon Iberico De Bellota](/assets/images/IMG_3914.jpeg#center)
+![Jamon Iberico De Bellota](/assets/images/IMG_3914.jpg#center)
 
 **Pan De Coca De Cristal Con Tomate De Colgar**  番茄脆coca面包，必点
 
-![**Pan De Coca De Cristal Con Tomate De Colgar**](/assets/images/IMG_3920.jpeg#center)
+![**Pan De Coca De Cristal Con Tomate De Colgar**](/assets/images/IMG_3920.jpg#center)
 
 **Sangria No.1** 必点
 
-![**Pasta**](/assets/images/IMG_3908.jpeg#center)
+![**Pasta**](/assets/images/IMG_3908.jpg#center)
 
 **Risotto with Balck Truffle**
 
@@ -197,7 +197,7 @@ Address: Carrer de Sant Pere Més Alt, 49, 08003 Barcelona
 
 **Pasta**
 
-![**Sangria No.1**](/assets/images/IMG_3925.jpeg#center)
+![**Sangria No.1**](/assets/images/IMG_3925.jpg#center)
 
 <br /><br /><br />
 
