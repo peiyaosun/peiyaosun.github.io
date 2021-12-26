@@ -165,43 +165,41 @@ farcits de carn d’olla i gratinats amb beixamel trufada**(传统的意大利�
 
 <br /><br /><br />
 
-#### **附加榜单-西班牙 油条店**
+### **地中海菜系**
 
-Restaurant: **Xurreria Laietana**
+#### **榜单1**
 
-Address: Via Laietana, 46, 08003 Barcelona
+Restaurant: **Casa Lolea Barcelona**
 
-推荐指数：🌟🌟🌟🌟🌟
+Address: Carrer de Sant Pere Més Alt, 49, 08003 Barcelona
 
-背景 ：随意google map搜到的评分最高的油条店
+推荐指数：🌟🌟🌟🌟
 
-推荐理由：很正宗! 点上热巧克力配churro，churro上撒上一层细细的糖粉。店内还提供 一次性手套，很考究！
+背景：看到大S刨松露的新闻后，又一直被这家店的Truffle Risotto种草，很想一试。Truffle Risotto最后没有吃完 ，对我来说会有些腻。
 
-![Churro](/assets/images/IMG_9988.jpg#center)
+推荐理由：这家店的Sangria真的很好喝，可以排名巴塞罗那地区第一（sitges那家不算在内）。餐厅位于波恩区，属于穿过小巷子才能找到的那种。如果提前预约，可以看到波点酒瓶上挂着你的名字的小黑板的桌子。波点非常可爱，餐厅氛围非常cozy，很愉悦，适合约会。
+
+**Jamon Iberico De Bellota** 橡果喂养-伊比利亚火腿
+
+![Jamon Iberico De Bellota](/assets/images/IMG_3914.jpg#center)
+
+**Pan De Coca De Cristal Con Tomate De Colgar**  番茄脆coca面包，必点
+
+![**Pan De Coca De Cristal Con Tomate De Colgar**](/assets/images/IMG_3920.jpg#center)
+
+**Sangria No.1** 必点
+
+![**Pasta**](/assets/images/IMG_3908.jpg#center)
+
+**Risotto with Balck Truffle**
+
+![**Risotto with Balck Truffle**](/assets/images/IMG_3910.jpg#center)
+
+**Pasta**
+
+![**Sangria No.1**](/assets/images/IMG_3925.jpg#center)
 
 <br /><br /><br />
-
-#### **附加榜单-西班牙菜 学校附近店**
-
-Restaurant: **Cafè Menssana**
-
-Address: Carrer de Sardenya, 48, 08005 Barcelona
-
-推荐指数：🌟🌟🌟🌟🌟
-
-背景 ：学校门口的餐厅，很温馨，客人很多。
-
-推荐理由：这家店的炸鸡绝了，比肯德基的还好吃。原本在我心里肯德基炸鸡第一好吃。
-
-**Nuggets de Pollo estilo Cajun** 卡津风味鸡块
-
-![menu](/assets/images/IMG_2526.jpg#center)
-
-**Chicken Hamburger** 卡津风味鸡块汉堡
-
-![menu](/assets/images/IMG_2403.jpg#center)
-
-<br /><br /><br /><br />
 
 ### **葡萄牙菜系**
 
@@ -274,6 +272,44 @@ Address:  Passeig de Sant Joan, 57, 08009 Barcelona Spain
 **土耳其茶**
 
 ![Tea](/assets/images/IMG_0006.jpg#center)
+
+<br /><br /><br /><br />
+
+#### **附加榜单-西班牙 油条店**
+
+Restaurant: **Xurreria Laietana**
+
+Address: Via Laietana, 46, 08003 Barcelona
+
+推荐指数：🌟🌟🌟🌟🌟
+
+背景 ：随意google map搜到的评分最高的油条店
+
+推荐理由：很正宗! 点上热巧克力配churro，churro上撒上一层细细的糖粉。店内还提供 一次性手套，很考究！
+
+![Churro](/assets/images/IMG_9988.jpg#center)
+
+<br /><br /><br />
+
+#### **附加榜单-西班牙菜 学校附近店**
+
+Restaurant: **Cafè Menssana**
+
+Address: Carrer de Sardenya, 48, 08005 Barcelona
+
+推荐指数：🌟🌟🌟🌟🌟
+
+背景 ：学校门口的餐厅，很温馨，客人很多。
+
+推荐理由：这家店的炸鸡绝了，比肯德基的还好吃。原本在我心里肯德基炸鸡第一好吃。
+
+**Nuggets de Pollo estilo Cajun** 卡津风味鸡块
+
+![menu](/assets/images/IMG_2526.jpg#center)
+
+**Chicken Hamburger** 卡津风味鸡块汉堡
+
+![menu](/assets/images/IMG_2403.jpg#center)
 
 <br /><br /><br /><br />
 
