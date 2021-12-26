@@ -1,3 +1,5 @@
+---
+
 layout: post 
 
 title: How do I establish a GitHub Website
@@ -6,11 +8,15 @@ categories: [2021年]
 
 tags: []
 
+---
+
 
 
 **Reference:**
 
 https://sinantang.github.io/ -《用 Jekyll 在 GitHub 上搭建你的个人网站》
+
+https://jekyllcn.com/docs/posts/ -jekyll官方网站
 
 ​    之所以把reference放到这么前面，是因为我觉得sinan写得很好，我几乎是按照她的方式走下来的。
 

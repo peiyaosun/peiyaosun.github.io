@@ -1,7 +1,7 @@
 ---
 layout: post 
 
-title: my 2021 year food review
+title: My 2021 Year Food Review
 
 categories: [2021年]
 
