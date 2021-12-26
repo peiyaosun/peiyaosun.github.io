@@ -24,6 +24,41 @@ https://jekyllcn.com/docs/posts/ -jekyll官方网站
 
 
 
+
+
+后续更改：
+
+1. 写完博文，保存markdown文件。在本地jekyll local site观察更新：
+
+```
+cd ~/Public
+ls
+cd USER-NAME.github.io
+bundle exec jekyll serve  #1
+```
+
+以上几步都完成后，点击 `⌘T` 开一个新 Terminal tab，输入：
+
+```
+open http://localhost:4000  #2
+```
+
+或者也可以直接打开浏览器，输入 `localhost:4000`
+
+
+
+2. 正式上传github更新：
+
+```
+git add .
+git commit -m "initial commit"
+git push origin HEAD:master
+```
+
+
+
+
+
 **我在建立网站的过程中遇到的问题：**
 
 1. jekyll local发布时网站显示良好，上传到github后github的page是一片空白。
@@ -46,6 +81,8 @@ https://jekyllcn.com/docs/posts/ -jekyll官方网站
 
    
 
+   
+
    从最初知道sinan的博文，试图建立网站到最终今天成功发出第一篇博文，一年已经过去。希望大家都能如愿建立自己的个人网站！
 
    
@@ -59,5 +96,5 @@ https://jekyllcn.com/docs/posts/ -jekyll官方网站
    
 
    
-
+   
    
