@@ -42,7 +42,7 @@ tags: []
 
    **解决方式：**在github页面需要将 source folder设置为master branch，这样上传的时候可以上传master，github能够显示。
 
-   例如：以 我为例，我前往自己的peiyaosun.github.io的responsiry，点击右边的Settings, 选择Pages, 在Source下将main改成选择master，直到出现“Your GitHub Pages site is currently being built from the `master` branch.”, 点击save，完成。
+   例如：以 我为例，我前往自己的peiyaosun.github.io的repository，点击右边的Settings, 选择Pages, 在Source下将main改成选择master，直到出现“Your GitHub Pages site is currently being built from the `master` branch.”, 点击save，完成。
 
 2. 图片在jekyll local网站显示良好，在github page时有些图片无法加载成功。
 
